@@ -16,17 +16,6 @@ class NavBar extends React.Component {
             </Link>
             <p>We make it easy to find your food</p>
           </div>
-          <div className="FooterRight" >
-            <div>
-              <a className='tiffany-about' href="http://www.tiffanytech.com">Made by Tiffany Shiu</a>
-            </div>
-            <a className='tiffany-links' href="https://github.com/tjshiu/eatsy">
-              <img src="https://res.cloudinary.com/dwanjkcku/image/upload/v1526010598/GitHub-Mark-120px-plus.png" />
-            </a>
-            <a className='tiffany-links' href="https://www.linkedin.com/in/tiffany-shiu/">
-              <img src="https://res.cloudinary.com/dwanjkcku/image/upload/v1526010598/linkedin.png" />
-            </a>
-          </div>
         </nav>
       </div>
     );

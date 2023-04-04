@@ -36,15 +36,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "postinstall": "webpack"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tjshiu/eatsy.git"
-  },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/tjshiu/eatsy/issues"
-  },
-  "homepage": "https://github.com/tjshiu/eatsy#readme"
+  "license": "ISC"
 }

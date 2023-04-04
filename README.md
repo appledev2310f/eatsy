@@ -68,13 +68,6 @@ Frontend Redux states are set up in so that there were separate reducers and act
 
 In addition to the included packages, [Cloudinary](https://cloudinary.com/) was used to upload product images.
 
-
-### Additional Resources
-* [Proposal Wireframes](https://github.com/tjshiu/eatsy/wiki/Component-Hierarchy-with-Wireframes)
-* [Sample State](https://github.com/tjshiu/eatsy/wiki/Sample-State)
-* [Database Schema](https://github.com/tjshiu/eatsy/wiki/Database-Schema)
-
-
 ## Possible Future Features
 In the future I would like to add:
 * Comments/Reviews
